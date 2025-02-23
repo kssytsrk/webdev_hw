@@ -658,32 +658,3 @@ footer .social-links .text {
     font-size: 0.9rem;
     color: #666;
 }
-
-/*  */
-/*  */
-/*  */
-/*  */
-/*  */
-
-/* footer {
-    margin: 0px 90px;
-    display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-    font-family: "Poppins", serif;
-
-
-    .footer-text {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .link {
-        font-size: 24px;
-        color: #585858;
-        font-weight: 600;
-    }
-
-    p {
-        font-size: 16px;
-        color:
